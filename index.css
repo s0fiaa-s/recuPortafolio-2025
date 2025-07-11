@@ -1,5 +1,25 @@
 .pantalla {
-    width: 1428px;
-    height: 4538px;
-    margin: auto;
+  width: 100%;
+  margin: 0 auto;
+  min-height: 100vh;
+}
+
+/* 2)  TELÉFONO  (0 – 767 px)                      */
+/*     – ajustes SOLO para pantallas pequeñas –    */
+
+@media (max-width: 767px) {
+  .pantalla {
+    /* padding angosto para no desperdiciar ancho */
+    padding: 0 1rem;
+  }
+}
+
+
+/* 3)  LAPTOP / DESKTOP  (≥ 1024 px)               */
+
+@media (min-width: 1024px) {
+  .pantalla {
+    max-width: 1428px;  /* tu límite original      */
+    padding: 0 2rem;    /* respiración lateral      */
+  }
 }
