@@ -1,0 +1,28 @@
+.footer {
+   width: 1428px;
+   height: 100px;
+   background-color: #978CDA;
+   border: 2px solid black;
+   display: flex;
+   flex-direction: column;
+   flex-direction: row;
+}
+
+
+.lg {
+   width: 440px;
+   height: 70px;
+   margin-left: 120px;
+   margin-top: 25px;
+}
+
+
+.fig {
+   width: 181px;
+   height: 52px;
+   margin-top: 25px;
+   color: white;
+   font-weight: 600;
+   font-size: 16px;
+   margin-left: 900px;
+}

@@ -1,0 +1,49 @@
+#seccion5 {
+   width: 1428px;
+   height: 604px;
+   border: 2px solid black;
+}
+.titulo5 {
+    width: 1216px;
+   height: 96px;
+   margin-top: 60px;
+   margin-left: 555px;
+   font-size: 48px;
+   font-weight: 800;
+   color: #000000;
+
+}
+
+.descri5 {
+   width: 582px;
+   height: 96px;
+   margin-left: 460px;
+   margin-top: 50px;
+   font-weight: 400;
+   font-size: 26px;
+   color: #71717A;
+}
+
+.gmail-btn {
+  display: inline-block;
+  background-color: #978CDA; 
+  color: white;
+  padding: 17px 25px;
+  margin: 20px 0;
+  border-radius: 4px;
+  text-decoration: none;
+  margin-left: 600px;
+  margin-top: 130px;
+  font-size: 18px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.gmail-btn:hover {
+  background-color: #a89fe2;
+}
+
+.a {
+
+    padding-top: 100px;
+  margin-left: 650px;    
+}

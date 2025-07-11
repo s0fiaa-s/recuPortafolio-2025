@@ -1,0 +1,28 @@
+#seccion4 {
+
+    width: 1428px;
+    height: 520px;
+    border: 1px solid black;
+    background-color: #978CDA;
+}
+
+.titulo4 {
+   width: 1216px;
+   height: 96px;
+   margin-top: 60px;
+   margin-left: 555px;
+   font-size: 48px;
+   font-weight: 800;
+   color: whitesmoke;
+}
+
+.info4 {
+    width: 600px;
+    height: 96px;
+    font-size: 23px;
+    margin-left: 380px;
+    margin-top: 10px;
+    display: flex;
+    text-align: center;
+    color: black;
+}
