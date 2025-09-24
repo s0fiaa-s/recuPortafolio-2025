@@ -1,6 +1,6 @@
 .secc1 {
    width: 1428px;
-   height: 2200px;
+   height: 2600px;
    border: 1px solid black;
    background-color: #978CDA;
 }
@@ -233,6 +233,51 @@
 }
 
 .descri5 {
+   width: 582px;
+   height: 96px;
+   margin-left: 600px;
+   margin-top: 40px;
+   font-weight: 400;
+   font-size: 16px;
+   color: #71717A;
+}
+
+.proyecto6 {
+   width: 1216px;
+   height: 364px;
+   margin-left: 120px;
+   margin-top: 40px;
+}
+
+.LdP {
+   width: 400px;
+   height: 297px;
+   margin-top: 30px;
+   border-radius: 18px;
+   border: 1px solid white;
+}
+
+.numero06 {
+   width: 582px;
+   height: 56px;
+   margin-left: 600px;
+   margin-top: -330px;
+   font-weight: 800;
+   font-size: 48px;
+   color: #FFFFFF;
+}
+
+.listaP {
+   width: 582px;
+   height: 40px;
+   margin-left: 600px;
+   margin-top: 20px;
+   font-weight: 700;
+   font-size: 32px;
+   color: #FFFFFF;
+}
+
+.descri6 {
    width: 582px;
    height: 96px;
    margin-left: 600px;
